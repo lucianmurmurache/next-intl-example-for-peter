@@ -21,7 +21,7 @@ export default function Page() {
           <h3>
             {t('hint')},{' '}
             <a
-              href="https://github.com/lucianmurmurache/next-intl-example-for-peter/blob/main/pages/index.tsx#L29"
+              href="https://github.com/lucianmurmurache/next-intl-example-for-peter/blob/main/pages/index.tsx#L31"
               target="_blank"
               rel="noopener noreferrer"
             >
