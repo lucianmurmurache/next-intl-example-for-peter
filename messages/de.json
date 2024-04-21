@@ -1,0 +1,10 @@
+{
+  "LocaleSwitcher": {
+    "switchLocale": "Zu {locale, select, de {Deutsch} en {Englisch} other {Unbekannt}} wechseln"
+  },
+  "Home": {
+    "title": "Hallo Peter!",
+    "ts_shows_error": "Wenn du versuchst, eine nicht existierende Übersetzung hinzuzufügen, zeigt TypeScript einen Fehler an",
+    "hint": "Checken der Datei index.tsx im Ordner pages"
+  }
+}
